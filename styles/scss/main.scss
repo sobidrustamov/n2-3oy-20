@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  height: 100vh;
+}
+
+.picture {
+  width: 600px;
+  background-color: #fff;
+}
+
+.savol {
+  min-height: 50px;
+}
+
+img {
+  width: 100%;
+}
